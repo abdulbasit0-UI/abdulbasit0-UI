@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abdulbasit, a full-time Front-end web engineer👨‍💻 working remotely since 2019🚀</div>  
+<div align="center">I'm Abdulbasit, a full-time Front-end web engineer👨‍💻 working remotely since 2019🚀</div>  
   
 
 - 🔭 I’m currently working on [NEXT JS realestate listing web application](https://github.com/abdulbasit0-UI/realestate-listing-open-source)  
