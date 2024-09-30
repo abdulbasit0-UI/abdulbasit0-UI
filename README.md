@@ -3,5 +3,5 @@
 </div>  
   
 
-### <div align="center">React Front-end Developer🚀</div>  
+### <div align="center">Full-stack Developer🚀</div>  
 
