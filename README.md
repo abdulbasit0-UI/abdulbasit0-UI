@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=blue&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=yellow&label=Total+Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=abdulbasit0-UI&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abdulbasit0-UI?style=flat-square&color=blue&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/abdulbasit0-UI?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=yellow&label=Total+Stars" alt="Stars" />
 </div>
 
 ---
@@ -20,7 +20,7 @@ I'm a seasoned full-stack developer who transforms complex problems into elegant
 
 ```typescript
 const developer = {
-  name: "Your Name",
+  name: "Abdulbasit",
   experience: "6+ years",
   mindset: "Never stop learning",
   passion: ["Clean Code", "System Design", "Innovation"],
@@ -118,12 +118,12 @@ const developer = {
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulbasit0-UI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasit0-UI&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasit0-UI&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
